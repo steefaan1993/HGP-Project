@@ -20,3 +20,4 @@ class ScoreBoard(QDockWidget):
 
     def center(self):
         '''centers the window on the screen'''
+
